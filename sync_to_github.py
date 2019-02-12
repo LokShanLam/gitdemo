@@ -6,7 +6,12 @@ for i in range(10):
     else:
         print(i)
 
-'''hello, 2'''
+'how to upload your codes to github'
+'select all lines of the file'
+'right click then select git'
+'from git, select add'
+'then from git, select commit, put commit message, then commit and push'
+'upload successfully by finishing the push'
 
 
 
